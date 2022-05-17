@@ -24,7 +24,7 @@ Agile D&D is a set of practices and concepts for teaching and reenforcing Agile 
 Play D&D. Learn Agile. Profit.
 
 ### We're Just Playing Games? <a name="justgames"></a>
-This is a sub paragraph, formatted in heading 3 style
+Yes. You're "JUST" playing games.  Let's dig in to that sentence for a second.
 
 ## Another paragraph <a name="paragraph2"></a>
 The second paragraph text
