@@ -2,7 +2,7 @@
 A collection of pre-generated character sheets for specific roles Agile & Business roles 
 
 # Table of contents
-1. [Scrum Master](#scrum-master) - Dungeon Master
-2. [How It Works](#howitworks)
-    1. [We're Just Playing Games?](#justgames)
-3. [Business Value](#busval)
+1. [Servers/Virtualization](#servers) - [Conjuration Wizard](#conj-wiz)
+2. [Storage](#storage) - [Scribe Wizard](#scribe-wiz)
+3. [Backups](#backups) - [Chronurgy Wizard](#chron-wiz)
+4. 
