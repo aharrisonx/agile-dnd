@@ -1,5 +1,5 @@
 # Templates
-A collection of pre-generated character sheets for specific roles Agile & Business roles 
+A collection of pre-generated character sheets for specific Agile & Business roles 
 
 # Table of contents
 1. [Servers/Virtualization](#servers) - [Conjuration Wizard](#conj-wiz)
