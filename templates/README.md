@@ -11,7 +11,7 @@ A collection of pre-generated character sheets for specific Agile & Business rol
 7. [Network](#network) - [Artillerist Artificer](#art-art)
 
 ## Server/Virtualization Team <a name="servers"></a>
-The template for this team member is the [Conjuration Wizard](https://www.dndbeyond.com/classes/wizard#SchoolofConjuration){:target="_blank"}.
+The template for this team member is the <a href="https://www.dndbeyond.com/classes/wizard#SchoolofConjuration" target="_blank">Conjuration Wizard</a>.
 
 ## Storage Team <a name="storage"></a>
 The template for this team member is the [Scribe Wizard](https://www.dndbeyond.com/classes/wizard#OrderofScribes){:target="_blank"}.
