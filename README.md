@@ -7,6 +7,7 @@ A collection of documents and resources for using Agile D&amp;D
     1. [We're Just Playing Games?](#justgames)
 3. [Business Value](#busval)
 4. [Character Creation](/char/)
+5. [Tools](/tools/)
 
 ## Introduction <a name="introduction"></a>
 Agile D&D is a set of practices and concepts for teaching and reenforcing Agile methodologies by using D&D (or as a framework.  At its core, Agile is a simple and ingenious concept providing continuous incremental improvement (Leveling Up) through small and frequent releases (Adventures). In this framework, we can teach concepts like:
