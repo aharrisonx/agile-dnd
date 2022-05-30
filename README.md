@@ -4,7 +4,7 @@ A collection of documents and resources for using Agile D&amp;D
 # Table of contents
 1. [Introduction](#introduction)
 2. [How It Works](#howitworks)
-  1. [We're Just Playing Games?](#justgames)
+    1. [We're Just Playing Games?](#justgames)
 3. [Business Value](#busval)
 
 ## Introduction <a name="introduction"></a>
