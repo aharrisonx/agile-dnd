@@ -9,3 +9,6 @@ A collection of pre-generated character sheets for specific Agile & Business rol
 5. [Monitoring](#monitoring) - [Divination Wizard](#diz-wiz)
 6. [Support](#support) - [Battle-Smith Artificer](#battle-art)
 7. [Network](#network) - [Artillerist Artificer](#art-art)
+
+## Server/Virtualization Team <a name="servers"></a>
+The template for this team member is the Conjuration Wizard.
