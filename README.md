@@ -22,10 +22,10 @@ Agile D&D is a set of practices and concepts for teaching and reenforcing Agile 
 * Sprint Review
 * Sprint Retrospectives
 
-## How It Works <a name="howitworks"></a>
+## **How It Works** <a name="howitworks"></a>
 Play D&D. Learn Agile. Profit.
 
-### We're Just Playing Games? <a name="justgames"></a>
+### **We're Just Playing Games?** <a name="justgames"></a>
 Yes. You're "JUST" playing games.  Let's dig in to that sentence for a second.
 
 ## Business Value <a name="busval"></a>
