@@ -23,7 +23,7 @@ Trello is a great free tool for getting familiar with Kanban boards and concepts
 * [Definition of Ready](https://openpracticelibrary.com/practice/definition-of-ready/)
 * [Definition of Done](https://openpracticelibrary.com/practice/definition-of-done/)
 
-[Agile D&D kanban template](https://trello.com/b/Tie2l00J/agile-dd-template)
+You can use this [Agile D&D kanban template](https://trello.com/b/Tie2l00J/agile-dd-template) to get started with your own kanban board!
 
 # Scrum
 
