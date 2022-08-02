@@ -1,7 +1,17 @@
 # Tools
 A collection of tools that can be used for Agile D&D
 
-# Social Contract
+## D&D Tools
+
+### [D&D Beyond](https://dndbeyond.com)
+
+### [Owlbear Rodeo](https://owlbear.rodeo)
+
+### [Roll 20](https://roll20.net)
+
+### [Discord](https://discord.com)
+## Agile Tools
+### Social Contract
 The Social Contract is a simple and effective way to enable team autonomy and self accountability for engagements. The Social Contract or Agreement is created by and for the team. It looks to codify the behaviors and expectations of the team. It also provides a mechanism for the team to radiate and share its desired behaviours with management and other stakeholders.
 
 <p align="center">
@@ -9,7 +19,7 @@ The Social Contract is a simple and effective way to enable team autonomy and se
 </p>
 
 More info on the use of Social Contracts and how they can help your team can be found in the [Open Practice Library](https://openpracticelibrary.com/practice/social-contract/)
-# Kanban
+### Kanban
 The [Open Practice Library](https://openpracticelibrary.com/practice/kanban/) defines Kanban as:
 
 > ...a framework used to implement agile software development based in the following practices:
@@ -31,18 +41,18 @@ Trello is a great free tool for getting familiar with Kanban boards and concepts
 
 You can use this [Agile D&D kanban template](https://trello.com/b/Tie2l00J/agile-dd-template) to get started with your own kanban board!
 
-# Scrum
+### Scrum
 
-# CI/CD
+### CI/CD
 
-# DevSecOps
+### DevSecOps
 
-# Backlog creation & Grooming
+### Backlog creation & Grooming
 
-# The Sprint
+### The Sprint
 
-# Sprint Planning
+### Sprint Planning
 
-# Sprint Review
+### Sprint Review
 
-# Sprint Retrospectives
+### Sprint Retrospectives
