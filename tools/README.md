@@ -20,7 +20,7 @@ Trello is a great free tool for getting familiar with Kanban boards and concepts
 * WIP Limits
 * Definition of Ready/Definition of Done
 
-I've created a [board that you can use as a template](https://trello.com/b/Tie2l00J/agile-dd-template)
+[Agile D&D kanban template](https://trello.com/b/Tie2l00J/agile-dd-template)
 
 # Scrum
 
