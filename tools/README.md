@@ -8,6 +8,7 @@ The Social Contract is a simple and effective way to enable team autonomy and se
   <img width="200" src="https://raw.githubusercontent.com/aharrisonx/agile-dnd/main/src/images/social-contract-small.jpg" alt="Simple Social Contract written on a paper plate">
 </p>
 
+More info on the use of Social Contracts and how they can help your team can be found in the [Open Practice Library](https://openpracticelibrary.com/practice/social-contract/)
 # Kanban
 The [Open Practice Library](https://openpracticelibrary.com/practice/kanban/) defines Kanban as:
 
