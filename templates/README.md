@@ -32,5 +32,5 @@ The template for this team member is the [Battlesmith Artificer](https://www.dnd
 ## Network <a name="network"></a>
 The template for this team member is the [Artillerist Artificer](https://www.dndbeyond.com/classes/artificer#Artillerist)
 
-## Croos-Functional <a name="x-functional"></a>
+## Cross-Functional <a name="x-functional"></a>
 This is a "catch-all" template that can be used for any team member, as the theme is very configurable. [Draconic Sorceror](https://www.dndbeyond.com/classes/sorcerer#DraconicBloodline)
