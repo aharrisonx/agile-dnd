@@ -4,7 +4,7 @@ A collection of tools that can be used for Agile D&D
 # Kanban
 The [Open Practice Library](https://openpracticelibrary.com/practice/kanban/) defines Kanban as:
 
-> Kanban is a framework used to implement agile software development based in the following practices:
+> ...a framework used to implement agile software development based in the following practices:
 > 
 > * Visualize the workflow
 > * Limit Work in Progress (WIP)
