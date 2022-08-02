@@ -4,7 +4,7 @@ A collection of tools that can be used for Agile D&D
 ## D&D Tools
 
 ### [D&D Beyond](https://dndbeyond.com)
-
+D&D Beyond is an official toolset that makes playing Dungeons & Dragons easy for beginners. You can access the basic rules of the game for free, create a character in minutes and play them using digital dice from your browser or mobile device, and manage your campaign! You can even purchase official D&D books in the marketplace to level up your game experience!
 ### [Owlbear Rodeo](https://owlbear.rodeo)
 
 ### [Roll 20](https://roll20.net)
