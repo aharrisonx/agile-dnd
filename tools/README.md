@@ -1,6 +1,8 @@
 # Tools
 A collection of tools that can be used for Agile D&D
 
+# Social Contract
+
 # Kanban
 The [Open Practice Library](https://openpracticelibrary.com/practice/kanban/) defines Kanban as:
 
@@ -14,20 +16,27 @@ The [Open Practice Library](https://openpracticelibrary.com/practice/kanban/) de
 
 Trello is a great free tool for getting familiar with Kanban boards and concepts such as:
 
-* Writing Simple User Stories
-* Story Pointing/Point Poker
+* [Writing Simple User Stories](https://openpracticelibrary.com/practice/story-kick-offs/)
+* [Story Pointing/Point Poker](https://openpracticelibrary.com/practice/story-repointing/)
 * Stack Racking
-* WIP Limits
-* Definition of Ready/Definition of Done
+* [WIP Limits](https://openpracticelibrary.com/practice/limit-work-in-progress/)
+* [Definition of Ready](https://openpracticelibrary.com/practice/definition-of-ready/)
+* [Definition of Done](https://openpracticelibrary.com/practice/definition-of-done/)
 
 [Agile D&D kanban template](https://trello.com/b/Tie2l00J/agile-dd-template)
 
 # Scrum
 
-* CI/CD
-* DevSecOps
-* Backlog creation & Grooming
-* The Sprint
-* Sprint Planning
-* Sprint Review
-* Sprint Retrospectives
+# CI/CD
+
+# DevSecOps
+
+# Backlog creation & Grooming
+
+# The Sprint
+
+# Sprint Planning
+
+# Sprint Review
+
+# Sprint Retrospectives
