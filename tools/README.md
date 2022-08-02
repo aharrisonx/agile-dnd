@@ -5,7 +5,7 @@ A collection of tools that can be used for Agile D&D
 The Social Contract is a simple and effective way to enable team autonomy and self accountability for engagements. The Social Contract or Agreement is created by and for the team. It looks to codify the behaviors and expectations of the team. It also provides a mechanism for the team to radiate and share its desired behaviours with management and other stakeholders.
 
 <p align="center">
-![alt text](https://raw.githubusercontent.com/aharrisonx/agile-dnd/main/src/images/social-contract-small.jpg "Simple Social Contract written on a paper plate")
+  <img width="200" src="https://raw.githubusercontent.com/aharrisonx/agile-dnd/main/src/images/social-contract-small.jpg" alt="Simple Social Contract written on a paper plate">
 </p>
 
 # Kanban
