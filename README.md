@@ -6,7 +6,7 @@ A collection of documents and resources for using Agile D&amp;D
 2. [How It Works](#howitworks)
     1. [We're Just Playing Games?](#justgames)
 3. [Business Value](#busval)
-4. [Character Creation](/characters/)
+4. [Character Creation](/character-creation/)
 5. [Tools](/tools/)
 6. [Menu Item](/menu)
 
