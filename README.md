@@ -33,3 +33,5 @@ The game itself is a means to an end. There doesn't need to be (and in actuality
 
 ## Business Value <a name="busval"></a>
 How does all this game playing benefit my business?
+
+The concepts of team cohesion, trust, and a sense of shared purpose having a direct and tangible positive impact on a business' profits have been widely researched and documented. Agile D&D will give your business/organization/team a powerful toolset for creating meaningful, lasting, trust-based relationships both inside the organization and with external customers, vendors, and stakeholders.  
