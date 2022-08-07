@@ -32,6 +32,6 @@ Yes. You're "JUST" playing games.  Let's dig in to that sentence for a second.  
 The game itself is a means to an end. There doesn't need to be (and in actuality, there should NOT be) any direct connection between the content or plot of the game and learning Agile processes. The learning comes by engaging in the same TYPES of activities as Agile practices like creating effective user stories, Sprint planning, story pointing, and many more.
 
 ## Business Value <a name="busval"></a>
-How does all this game playing benefit my business?
+### How does all this game playing benefit my business?
 
 The concepts of team cohesion, trust, and a sense of shared purpose having a direct and tangible positive impact on a business' profits have been widely researched and documented. Agile D&D will give your business/organization/team a powerful toolset for creating meaningful, lasting, trust-based relationships both inside the organization and with external customers, vendors, and stakeholders.  
