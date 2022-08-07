@@ -4,7 +4,7 @@ A collection of pre-generated character sheets for specific Agile & Business rol
 # The Basics
 Don't let the names fool you, the classic 4-person party of Fighter, Cleric, Rogue, Wizard can be adapted to almost any adventure and any group of players.  The rich depth of sub-classes (specializations within each class) allows players to take these "basic" templates and create unique, personally valuable characters that will allow players to make meaningful connections with their fellow adventurers!
 
-##Fighter
+## Fighter
 The [Fighter](characters/fighter.pdf) class is more than just a sword, shield, and armor. Although, those are very important aspects of the Fighter! In addition to all of the weapons and martial training, Fighters have courage, ingenuity, loyalty, compassion, and purpose.  
 
 ##Cleric
