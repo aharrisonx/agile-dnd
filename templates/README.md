@@ -2,10 +2,12 @@
 A collection of pre-generated character sheets for specific Agile & Business roles 
 
 # The Basics
-[Fighter](characters/fighter.pdf)
-[Cleric](characters/cleric.pdf)
-[Rogue](characters/rogue.pdf)
-[Wizard](characters/wizard.pdf)
+
+- [Fighter](characters/fighter.pdf)
+- [Cleric](characters/cleric.pdf)
+- [Rogue](characters/rogue.pdf)
+- [Wizard](characters/wizard.pdf)
+
 # Table of contents
 1. [Servers/Virtualization](#servers) - [Conjuration Wizard](https://www.dndbeyond.com/classes/wizard#SchoolofConjuration)
 2. [Storage](#storage) - [Scribe Wizard](https://www.dndbeyond.com/classes/wizard#OrderofScribes)
