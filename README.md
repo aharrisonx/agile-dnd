@@ -11,7 +11,7 @@ A collection of documents and resources for using Agile D&amp;D
 6. [Templates](/templates/)
 
 ## Introduction <a name="introduction"></a>
-Agile D&D is a set of practices and concepts for teaching and reenforcing Agile methodologies by using D&D (or any Table Top Role Playing Game) as a framework.  At its core, Agile is a simple and ingenious concept providing continuous incremental improvement (Leveling Up) through small and frequent releases (Adventures). In this framework, we can teach concepts like:
+Agile D&D is a set of practices and concepts for teaching and reinforcing Agile methodologies by using D&D (or any Table Top Role Playing Game) as a framework.  At its core, Agile is a simple and ingenious concept providing continuous incremental improvement (Leveling Up) through small and frequent releases (Adventures). In this framework, we can teach concepts like:
 
 * Kanban
 * Scrum
