@@ -37,7 +37,7 @@ Trello is a great free tool for getting familiar with Kanban boards and concepts
 
 * [Writing Simple User Stories](https://openpracticelibrary.com/practice/story-kick-offs/)
 * [Story Pointing/Point Poker](https://openpracticelibrary.com/practice/story-repointing/)
-* [MoSCoW & Stack Racking](http://www.pminheels.com/2016/10/prioritization-moscow-and-stack-rank.html)
+* [MoSCoW & Stack Ranking](http://www.pminheels.com/2016/10/prioritization-moscow-and-stack-rank.html)
 * [WIP Limits](https://openpracticelibrary.com/practice/limit-work-in-progress/)
 * [Definition of Ready](https://openpracticelibrary.com/practice/definition-of-ready/)
 * [Definition of Done](https://openpracticelibrary.com/practice/definition-of-done/)
