@@ -7,7 +7,7 @@ A collection of tools that can be used for Agile D&D
 D&D Beyond is an official toolset that makes playing Dungeons & Dragons easy for beginners. You can access the basic rules of the game for free, create a character in minutes and play them using digital dice from your browser or mobile device, and manage your campaign! You can even purchase official D&D books in the marketplace to level up your game experience!
 ### [Owlbear Rodeo](https://owlbear.rodeo)
 Owlbear Rodeo is an attempt to make a web app to run tabletop encounters without the complicated setup process needed for other Virtual Table Tops (VTTs).
-Made by two people in Melbourne, Australia. Mitch and Nicola were looking for an easy way to continue their d&d campaign as in-person interaction becomes harder during the COVID-19 crisis.
+Made by two people in Melbourne, Australia. Mitch and Nicola were looking for an easy way to continue their d&d campaign as in-person interaction became harder during the COVID-19 crisis.
 ### [Roll 20](https://roll20.net)
 The Roll20 team is dedicated to enabling gamers to unite across any distance via their easy-to-use gaming tools. They strive to lessen the technical burden on the participants, facilitate the formation of new gaming groups, and to make barriers to entry as few as possible when gathering around a table for camaraderie. To accomplish these goals they seek to create a service that is sustainable and will be a resource to the gaming community as long as it is needed.
 
