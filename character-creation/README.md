@@ -24,4 +24,4 @@ Each player should be committed to dedicating 30-60 minutes in a 1:1 session wit
 ## Player Discovery <a name="discovery"></a>
 
 
-## Determine Character Archetype <a name="creation"></a>
+## Determining Character Archetype <a name="creation"></a>
